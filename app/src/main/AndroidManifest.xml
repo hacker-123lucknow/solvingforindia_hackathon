@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.THRIFTy">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Sidebar">
+        <activity android:name="com.example.THRIFTy.custom_filter" />
+        <activity android:name="com.example.THRIFTy.WeekAnalysis" />
+        <activity android:name="com.example.THRIFTy.MonthAnalysis" />
+        <activity android:name="com.example.THRIFTy.YearAnalysis" />
+        <activity android:name="com.example.THRIFTy.AddBudget" />
+        <activity android:name="com.example.THRIFTy.AddCategory" />
+        <activity android:name="com.example.THRIFTy.Settings" />
+        <activity android:name="com.example.THRIFTy.Category" />
+        <activity android:name="com.example.THRIFTy.Budget" />
+        <activity android:name="com.example.THRIFTy.MonthView" />
+        <activity android:name="com.example.THRIFTy.CustomView" />
+        <activity android:name="com.example.THRIFTy.DayView" />
+        <activity android:name="com.example.THRIFTy.addincome" />
+        <activity android:name="com.example.THRIFTy.AllTransactions" />
+        <activity android:name="com.example.THRIFTy.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
