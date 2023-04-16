@@ -1,0 +1,26 @@
+     THRIFTy
+Objective-
+
+.  The main objective is to manage money in an easy and proper way .
+. In this app  users can analyze the categories there are spending their money daywise , month wise and year wiseExpense with the help of a pie chart . 
+. Our objective is that people avoid overspending and invest the money they save on a daily basis .
+
+Scope-
+. make an easy to understand user interface.
+. easy to operate.
+. good user interface 
+. scalable
+
+Methodology-
+Data Input: Once registered, the user can begin inputting their expenses into the app. This can be done manually by entering the details of each expense, such as the amount, date, and category.
+Categorization: The app will then categorize the expenses based on the information provided by the user. This allows the user to see how much they are spending in different areas, such as food, housing, transportation, and entertainment.
+Database - we have also utilised the cocept of database in categorisation and each transaction activity you store in the app.
+
+Result-
+
+.  On this app you can manage your expense and you can track your expenses by  categorizing them based on the type of  expense.
+.  You can make your  budget of your  expense every month . you can set limits on categories so that you can get alert when you can stop overspending on that category .
+.  You can get reports and piechart on your monthly , yearly  and daily expense.
+. you can easily find an transaction activity that you have stored  through extensive serch filters provided .
+. This app does not require any internet connectivty and easy to use.
+
